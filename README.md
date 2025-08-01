@@ -12,6 +12,7 @@ It is developed as part of the **CODTECH Internship Task-2**.
 | `mnist_cnn.ipynb` | Main Jupyter Notebook containing the CNN model, training, evaluation, and visualizations |
 | `mnist_cnn.h5` | Saved model file (HDF5 format) |
 | `README.md` | Project documentation |
+| `requirements.txt` | Required libraries |
 
 ---
 
